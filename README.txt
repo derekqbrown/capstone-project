@@ -1,6 +1,8 @@
 Image Classification using Machine Learning
 By Derek Brown
 
+Note: please see the "c964-proposal-DerekBrown" file for details
+
 User Manual
 Before running this software, you will need to have Python 3.10 installed on your system. Python 3.10 can be installed by going to this link and downloading either “Windows installer (64-bit)” or “Windows installer (32-bit).” This guide will also use the PyCharm IDE. Another IDE should also work, but instructions will not be provided for an alternative IDE. To install PyCharm, go here.
 
