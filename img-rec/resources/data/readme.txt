@@ -1,0 +1,1 @@
+To load new data, these folders will need to contain the presorted images used in the classifications. The dataset used to train the original model was a subset of the dataset found at https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images  
