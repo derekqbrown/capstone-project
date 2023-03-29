@@ -4,7 +4,7 @@ By Derek Brown
 Note: please see the "c964-proposal-DerekBrown" file for details
 
 User Manual
-Before running this software, you will need to have Python 3.10 installed on your system. Python 3.10 can be installed by going to this link and downloading either “Windows installer (64-bit)” or “Windows installer (32-bit).” This guide will also use the PyCharm IDE. Another IDE should also work, but instructions will not be provided for an alternative IDE. To install PyCharm, go here.
+Before running this software, you will need to have Python 3.10 installed on your system. Python 3.10 can be installed by going to https://www.python.org/downloads/release/python-3100/ and downloading either “Windows installer (64-bit)” or “Windows installer (32-bit).” This guide will also use the PyCharm IDE. Another IDE should also work, but instructions will not be provided for an alternative IDE. To install PyCharm, go to https://www.jetbrains.com/pycharm/download/ to download the Community version for free.
 
 In addition to Python 3.10, the following libraries will need to be installed on the system if not already installed:  pandas, tensorflow, keras, matplotlib, numpy, sklearn, and opencv-python.  Users can install the required libraries in PyCharm  using the “Python Packages” option near the bottom. Follow this guide for more details. 
 
