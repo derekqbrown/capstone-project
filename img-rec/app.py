@@ -1,4 +1,4 @@
-# Derek Brown - student ID:005836312 - capstone project
+# Author: Derek Brown
 import os
 import pickle
 from tkinter import messagebox
