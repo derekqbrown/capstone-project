@@ -1,4 +1,4 @@
-# Derek Brown - student ID:005836312 - capstone project
+# Author: Derek Brown 
 # Some sections of code in this file were adapted from the following source:
 # Menon K., How To Build Powerful Keras Image Classification Models: Simplilearn (2022),
 # https://www.simplilearn.com/tutorials/deep-learning-tutorial/guide-to-building-powerful-keras-image-classification-models
